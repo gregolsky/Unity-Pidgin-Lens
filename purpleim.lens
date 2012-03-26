@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.purpleim
+DBusPath=/unity/singlet/lens/purpleim
+Name=Purpleim Lens
+Icon=/usr/share/unity/lenses/purpleim/purpleim-lens.svg
+Description=Pidgin lens
+SearchHint=Purpleim Search
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=purpleim
